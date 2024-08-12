@@ -16,47 +16,8 @@ Customize the type and number of questions to fit specific educational needs, wh
 Tailor the AI-driven question generation process with specific instructions, optimizing the relevance and quality of the output.
 
 🛠️ How It Works
-Input:
-
-Upload the textbook chapter in PDF format.
+Input:Upload the textbook chapter in PDF format.
 Configure the number of questions per format.
 Optionally, provide specific instructions for question generation.
-Processing:
-
-The integrated AI model processes your input, generating a diverse set of questions that align perfectly with the provided content.
-Output:
-
-Download a well-structured PDF containing the generated questions, categorized into MCQs, Short Answers, and Long Answers, ready for use.
-📚 Getting Started
-Prerequisites
-Python 3.8+
-Required Python packages listed in requirements.txt
-Installation
-Clone the Repository:
-
-bash
-Copy code
-git clone https://github.com/yourusername/PaperForge.git
-cd PaperForge
-Install Dependencies:
-
-bash
-Copy code
-pip install -r requirements.txt
-Run the Application:
-
-bash
-Copy code
-python main.py
-🛤️ Roadmap
-🌍 Multilingual Support: Expand to support question generation in multiple languages.
-🎨 Enhanced Customization: Introduce advanced options for question format, difficulty, and complexity.
-🧬 Integration with Advanced AI Models: Incorporate cutting-edge AI models for more nuanced question generation.
-🤝 Contributing
-Contributions are what make the open-source community such an amazing place to learn, inspire, and create. Any contributions you make are greatly appreciated.
-
-Fork the Project
-Create your Feature Branch (git checkout -b feature/AmazingFeature)
-Commit your Changes (git commit -m 'Add some AmazingFeature')
-Push to the Branch (git push origin feature/AmazingFeature)
-Open a Pull Request
+Processing:The integrated AI model processes your input, generating a diverse set of questions that align perfectly with the provided content.
+Output:ownload a well-structured PDF containing the generated questions, categorized into MCQs, Short Answers, and Long Answers, ready for use.
