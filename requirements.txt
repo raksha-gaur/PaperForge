@@ -1,0 +1,12 @@
+langchain==0.1.13
+streamlit==1.32.2
+tiktoken==0.5.2
+python-dotenv==1.0.1
+langchain_huggingface==0.0.1
+PyMuPDF
+faiss-cpu
+fpdf
+langchain-community
+reportlab
+jinja2
+#run this command -  python -m streamlit run frontend/frontend.py
